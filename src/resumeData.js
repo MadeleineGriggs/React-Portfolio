@@ -1,44 +1,44 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://avatars2.githubusercontent.com/u/21341376?s=460&v=4",
+    "name": "Madeleine Griggs",
+    "role": "Fullstack Web Developer",
+    "linkedinId":"https://www.linkedin.com/in/madeleinegriggs/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " Based in Toronto, with a background in design.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/madeleinegriggs/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/MadeleineGriggs",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"#",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Full Stack Web Developer with a background in design and life-long dedication to learning. Effective at combining my technical ability to execute ideas through code with creative problem solving to create user-friendly applications. Passionate about approaching design and programming challenges with an eye for accessibility and collaborating with others to create polished web applications.",
+    "address":"Toronto, ON",
+    "website":"https://github.com/MadeleineGriggs",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Toronto",
+        "specialization":"Certification in Full Stack Web Development",
+        "MonthOfPassing":"Nov",
+        "YearOfPassing":"2019",
+        "Achievements":"Won the inaugural Triology Career Services Coding Challenge."
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"OCAD University, Toronto, ON",
+        "specialization":"Bachelors of Environmental Design",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2014",
+        "Achievements":"With Honors"
       }
     ],
     "work":[
