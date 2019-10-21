@@ -127,28 +127,45 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Lend & Borrow",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/LandB-MainPage.png"
+        "description":"App for members of a community to lend and borrow tools and equipment.",
+        "imgurl":"images/portfolio/LandB-MainPage.png",
+        "gitLink": "https://github.com/MadeleineGriggs/Lend-And-Borrow",
+        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
       },
       {
         "name":"Basil Book",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/basilBook.jpg"
+        "description":"Cooking recipe finder with full nutritional information, with an option to add custom recipes.",
+        "imgurl":"images/portfolio/basilBook.jpg",
+        "gitLink": "https://github.com/MadeleineGriggs/Project-Basil",
+        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
       },
       {
         "name":"Potion Mixer",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/potionMixer.png"
+        "description":"A game where you try to fill your cauldron with ingredients to match the value of potion the teacher wants.",  
+        "imgurl":"images/portfolio/potionMixer.png",
+        "gitLink": "https://github.com/MadeleineGriggs/unit-4-game",
+        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
       },
       {
         "name":"Tip Calculator",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/TipCalculator.jpg"
+        "description":"An app for calculating tip amounts from a bill total, also allows for bill splitting",
+        "imgurl":"images/portfolio/TipCalculator.jpg",
+        "gitLink": "https://github.com/MadeleineGriggs/Tip-Calculator",
+        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
       },
       {
         "name":"Tip Calculator",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/TipCalculator.jpg"
+        "description":"An app for calculating tip amounts from a bill total, also allows for bill splitting",
+        "imgurl":"images/portfolio/TipCalculator.jpg",
+        "gitLink": "https://github.com/MadeleineGriggs/Tip-Calculator",
+        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
+      },
+      {
+        "name":"Tip Calculator",
+        "description":"An app for calculating tip amounts from a bill total, also allows for bill splitting",
+        "imgurl":"images/portfolio/TipCalculator.jpg",
+        "gitLink": "https://github.com/MadeleineGriggs/Tip-Calculator",
+        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
       }
     ],
     "testimonials":[

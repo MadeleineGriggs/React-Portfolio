@@ -431,7 +431,8 @@ ul#nav li.current a { color: #608f13; }
    background: #fff;
    overflow: hidden;
    position: relative;
-
+   display: flex;
+   flex-wrap: wrap;
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -441,6 +442,39 @@ ul#nav li.current a { color: #608f13; }
 .portfolio-item .item-wrap a {
    display: block;
    cursor: pointer;
+}
+
+.portfolio-git-info {
+   margin-top: 2rem;
+   color: #e0dede !important;
+   border: 1px solid #e0dede;
+   border-radius: 2px;
+   padding: 5px 15px;
+   float: left;
+   margin-left: 50px;
+
+}
+
+.portfolio-git-info:hover {
+   color: #608f13 !important;
+   border: 1px solid #608f13;
+
+}
+
+.portfolio-live-link {
+   margin-top: 2rem;
+   color: #e0dede !important;
+   border: 1px solid #e0dede;
+   border-radius: 2px;
+   padding: 5px 15px;
+   float: right;
+   margin-right: 50px;
+}
+
+.portfolio-live-link:hover {
+   color: #608f13 !important;
+   border: 1px solid #608f13;
+
 }
 
 /* overlay */
@@ -462,6 +496,7 @@ ul#nav li.current a { color: #608f13; }
 
    background: url(../images/overlay-bg.png) repeat;
 }
+
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
@@ -504,7 +539,8 @@ ul#nav li.current a { color: #608f13; }
 .portfolio-item:hover .overlay {
 	opacity: 1;
 	-moz-opacity: 1;
-	filter:alpha(opacity=100);
+   filter:alpha(opacity=100);
+   
 }
 .portfolio-item:hover .link-icon {
    opacity: 1;
