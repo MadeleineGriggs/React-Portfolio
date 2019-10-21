@@ -25,6 +25,7 @@ let resumeData = {
     "aboutme":"Full Stack Web Developer with a background in design and life-long dedication to learning. Effective at combining my technical ability to execute ideas through code with creative problem solving to create user-friendly applications. Passionate about approaching design and programming challenges with an eye for accessibility and collaborating with others to create polished web applications.",
     "address":"Toronto, ON",
     "website":"https://github.com/MadeleineGriggs",
+    "phone": "(647) 400 5209",
     "education":[
       {
         "UniversityName":"University of Toronto",
@@ -43,62 +44,117 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"BKDP",
+        "specialization":"Project Coordinator",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
       },
       {
-        "CompanyName":"Some Company",
+        "CompanyName":"Regency Interiors 2000 inc.",
         "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2015",
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
-    "skills":[
+    "frameworksDescription":"Web Technologies & Frameworks",
+    "frameworks":[
+      {
+        "skillname":"Express.js"
+      },
+      {
+        "skillname":"React.js"
+      },
       {
         "skillname":"HTML5"
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS3.0"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Node.js"
+      }
+    ],
+    "databaseDescription":"Database & ORM",
+    "databases":[
+      {
+        "skillname":"MySQL & Sequelize"
+      },
+      {
+        "skillname":"Firebase"
+      },
+      {
+        "skillname":"MongoDB & Mongoose"
+      }
+    ],
+    "scriptsDescription":"Scripts/UI",
+    "scripts":[
+      {
+        "skillname":"Javascript"
+      },
+      {
+        "skillname":"jQuery"
+      },
+      {
+        "skillname":"AJAX"
+      },
+      {
+        "skillname":"BootStrap"
+      },
+      {
+        "skillname":"Handlebars.js"
+      }
+    ],
+    "debugDescription":"Debug, Versioning & Other Tools",
+    "debugs":[
+      {
+        "skillname":"Git & Github"
+      },
+      {
+        "skillname":"Chrome Developer Tools"
+      },
+      {
+        "skillname":"Mocha"
+      },
+      {
+        "skillname":"Chai"
+      },
+      {
+        "skillname":"Heroku"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"Lend & Borrow",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/LandB-MainPage.png"
       },
       {
-        "name":"project2",
+        "name":"Basil Book",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"images/portfolio/basilBook.jpg"
       },
       {
-        "name":"project3",
+        "name":"Potion Mixer",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/potionMixer.png"
       },
       {
-        "name":"project4",
+        "name":"Tip Calculator",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/TipCalculator.jpg"
+      },
+      {
+        "name":"Tip Calculator",
+        "description":"mobileapp",
+        "imgurl":"images/portfolio/TipCalculator.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Checkout more of my projects at my github: ",
+        "name":"https://github.com/MadeleineGriggs"
       }
     ]
   }

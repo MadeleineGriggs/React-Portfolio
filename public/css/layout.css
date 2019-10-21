@@ -651,11 +651,11 @@ call-to-action .button {
    overflow: hidden;
 }
 #testimonials .text-container {
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 66px;
+   padding-bottom: 33px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 14px/20px 'opensans-bold', sans-serif;   
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -684,8 +684,8 @@ call-to-action .button {
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
-   font-size: 24px;
-   line-height: 48px;
+   font-size: 20px;
+   line-height: 30px;
    color: #fff
 }
 #testimonials blockquote cite {
@@ -972,7 +972,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #989b53;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
