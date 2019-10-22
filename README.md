@@ -1,3 +1,15 @@
+# React Customized Portfolio
+
+Based on a portfolio template by Rahul Bhatia, see links below for more information. Portfolio has been customized to fit my needs and somewhat restyled.
+
+
+## Screenshot
+
+![Preview](./Screenshot.PNG)
+
+
+---------------------------------------------------------------------------
+
 [![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
 
 
