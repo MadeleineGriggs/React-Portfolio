@@ -130,21 +130,21 @@ let resumeData = {
         "description":"App for members of a community to lend and borrow tools and equipment.",
         "imgurl":"images/portfolio/LandB-MainPage.png",
         "gitLink": "https://github.com/MadeleineGriggs/Lend-And-Borrow",
-        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
+        "appLink": "https://lend-borrow.herokuapp.com/"
       },
       {
         "name":"Basil Book",
         "description":"Cooking recipe finder with full nutritional information, with an option to add custom recipes.",
         "imgurl":"images/portfolio/basilBook.jpg",
         "gitLink": "https://github.com/MadeleineGriggs/Project-Basil",
-        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
+        "appLink": "https://madeleinegriggs.github.io/Project-Basil/"
       },
       {
         "name":"Potion Mixer",
         "description":"A game where you try to fill your cauldron with ingredients to match the value of potion the teacher wants.",  
         "imgurl":"images/portfolio/potionMixer.png",
         "gitLink": "https://github.com/MadeleineGriggs/unit-4-game",
-        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
+        "appLink": "https://madeleinegriggs.github.io/unit-4-game/index.html"
       },
       {
         "name":"Tip Calculator",
@@ -154,18 +154,18 @@ let resumeData = {
         "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
       },
       {
-        "name":"Tip Calculator",
-        "description":"An app for calculating tip amounts from a bill total, also allows for bill splitting",
-        "imgurl":"images/portfolio/TipCalculator.jpg",
-        "gitLink": "https://github.com/MadeleineGriggs/Tip-Calculator",
-        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
+        "name":"Fall Leaves Memory Game",
+        "description":"A twist on the old memory game. User is presented with 12 images. In order to achieve the highest possible score, they must click each image only once. If an image is clicked twice, the game resets.",
+        "imgurl":"images/portfolio/clickyGame.png",
+        "gitLink": "https://github.com/MadeleineGriggs/Clicky-Game",
+        "appLink": "https://clicky-game-autumn.herokuapp.com/"
       },
       {
-        "name":"Tip Calculator",
-        "description":"An app for calculating tip amounts from a bill total, also allows for bill splitting",
-        "imgurl":"images/portfolio/TipCalculator.jpg",
-        "gitLink": "https://github.com/MadeleineGriggs/Tip-Calculator",
-        "appLink": "https://madeleinegriggs.github.io/Tip-Calculator/"
+        "name":"CBC Note Scraper",
+        "description":"A web scraper for the local CBC news built using Cheerio, Axios, Mongoose and Express.",
+        "imgurl":"images/portfolio/noteScraper.png",
+        "gitLink": "https://github.com/MadeleineGriggs/CBC-scraper",
+        "appLink": "https://arcane-citadel-90052.herokuapp.com/"
       }
     ],
     "testimonials":[

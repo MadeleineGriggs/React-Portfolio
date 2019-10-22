@@ -21,7 +21,7 @@ export default class Testimonials extends Component {
                             <p>
                             {item.description}
                             </p>
-                            <a href={item.name} target='blank' style={{color:'#fff'}}>{item.name}</a>
+                            <a href={item.name} target='blank' className="githubLink">{item.name}</a>
                           </blockquote>
                         </li>
                       )

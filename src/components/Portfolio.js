@@ -19,14 +19,18 @@ export default class Porfolio extends Component {
                           <div className="portfolio-item-meta">
                             <h5>{item.name}</h5>
                             <p>{item.description}</p>
-                            <div className="portfolio-links">
-                              <a href={item.gitLink} className="portfolio-git-info" target="_blank">Github Repository</a>
-                              <a href={item.appLink} className="portfolio-live-link">Live Link</a>
-                            </div>
+                            <a href={item.gitLink} className="portfolio-git-info" target="_blank">Github Repository</a>
+                              <a href={item.appLink} className="portfolio-live-link" target="_blank">Live Link</a>
                           </div>
+
                         </div>
+                        
                     </div>
+
+
+
                   </div>
+ 
                 </div>
               )
             })
