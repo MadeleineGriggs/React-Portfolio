@@ -19,8 +19,8 @@ export default class Porfolio extends Component {
                           <div className="portfolio-item-meta">
                             <h5>{item.name}</h5>
                             <p>{item.description}</p>
-                            <a href={item.gitLink} className="portfolio-git-info" target="_blank">Github Repository</a>
-                              <a href={item.appLink} className="portfolio-live-link" target="_blank">Live Link</a>
+                            <td onClick={()=> window.open(item.gitLink, "_blank")} className="portfolio-git-info">Github Repository</td>
+                            <td onClick={()=> window.open(item.appLink, "_blank")} className="portfolio-live-link">Live Link</td>
                           </div>
 
                         </div>

@@ -72,7 +72,7 @@ export default  class Resume extends Component {
 
    				{/* <div className="bars"> */}
 
-   				   <ul className="skills" style={{float:'left'}}>
+   				   <ul className="five columns skills">
               <p style={{color:"#4c5157", fontSize:"18px"}}>
                {resumeData.scriptsDescription}
                </p>
@@ -108,7 +108,7 @@ export default  class Resume extends Component {
              
 
 
-             <ul className="skills"  style={{float:'right'}}>
+             <ul className="five columns skills">
               <p style={{color:"#4c5157", fontSize:"18px"}}>
                {resumeData.databaseDescription}
               </p>

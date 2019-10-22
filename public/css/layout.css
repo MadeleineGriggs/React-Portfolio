@@ -452,7 +452,7 @@ ul#nav li.current a { color: #608f13; }
    padding: 5px 15px;
    float: left;
    margin-left: 50px;
-
+   cursor: pointer;
 }
 
 .portfolio-git-info:hover {
@@ -470,6 +470,7 @@ ul#nav li.current a { color: #608f13; }
    padding: 5px 15px;
    float: right;
    margin-right: 50px;
+   cursor: pointer;
 }
 
 .portfolio-live-link:hover {
