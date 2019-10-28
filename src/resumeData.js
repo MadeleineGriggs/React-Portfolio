@@ -15,11 +15,6 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/MadeleineGriggs",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"#",
-          "className":"fa fa-twitter"
         }
       ],
     "aboutme":"Full Stack Web Developer with a background in design and life-long dedication to learning. Effective at combining my technical ability to execute ideas through code with creative problem solving to create user-friendly applications. Passionate about approaching design and programming challenges with an eye for accessibility and collaborating with others to create polished web applications.",
@@ -44,18 +39,31 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"The Morpheus Clinic",
+        "specialization":"Administration / Website Maintenance",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2019",
+        "Achievements":"Updated and added pages to existing custom Wordpress site.",
+        "Achievements2": "Created and managed the clinic's social media presence, including a monthly newsletter.",
+        "Achievements3": "Updated Google Ads campaign to remove costly keywords with high Pay-Per-Click but low relevancy."
+      },
+      {
         "CompanyName":"BKDP",
         "specialization":"Project Coordinator",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Managed trade scheduling and material delivery for 12-16 simultaneous residential renovations with budgets ranging between 200k-2 million.",
+        "Achievements2": "Acted as the main point of contact for technical questions relating to design for contractors.",
+        "Achievements3": "Redesigned the 3D modeling process by retraining staff to use extensions and a new template library, reducing production time of models for presentations to ⅓ of the original system."
       },
       {
         "CompanyName":"Regency Interiors 2000 inc.",
-        "specialization":"Some specialization",
+        "specialization":"Project Manager",
         "MonthOfLeaving":"Aug",
         "YearOfLeaving":"2015",
-        "Achievements":"Some Achievements"
+        "Achievements":"Created custom shop drawings per sketches and conversations with designers/clients.",
+        "Achievements2": "Maintained and updated a material library with current design trends.",
+        "Achievements3": "Coordinated shop and installation schedule for multiple large scale installations simultaneously."
       }
     ],
     "frameworksDescription":"Web Technologies & Frameworks",

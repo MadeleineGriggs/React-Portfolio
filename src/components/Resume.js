@@ -49,6 +49,12 @@ export default  class Resume extends Component {
                           <p>
                           {item.Achievements}
                           </p>
+                          <p>
+                          {item.Achievements2}
+                          </p>
+                          <p>
+                          {item.Achievements3}
+                          </p>
                        </div>
 
                     </div>
@@ -88,7 +94,7 @@ export default  class Resume extends Component {
                   })
                 }
 
-                <p style={{color:"#4c5157", fontSize:"18px"}}>
+                <p style={{color:"#4c5157", fontSize:"18px", paddingTop:"2.5rem"}}>
                {resumeData.debugDescription}
                </p>
                 {
@@ -125,7 +131,7 @@ export default  class Resume extends Component {
                 }
 
 
-                <p style={{color:"#4c5157", fontSize:"18px"}}>
+                <p style={{color:"#4c5157", fontSize:"18px", paddingTop:"2.5rem"}}>
                {resumeData.frameworksDescription}
                </p>
                 {
